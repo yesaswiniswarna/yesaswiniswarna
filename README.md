@@ -28,7 +28,7 @@ I'm Yesaswini Swarna from Andhra Pradesh, currently pursuing B.Tech Fourth Year 
 
 ---
 ### 📑Research:
-- Regional Bias in Large Language Models
+-Published Research Paper On Regional Bias in Large Language Models
 ---
 ### 🛠️ Languages and Tools:
 
