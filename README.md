@@ -27,7 +27,9 @@ I'm Yesaswini Swarna from Andhra Pradesh, currently pursuing B.Tech Fourth Year 
 - **College Food Analytics**: Interactive Tableau dashboards for student food preferences
 
 ---
-
+### 📑Research:
+- Regional Bias in Large Language Models
+---
 ### 🛠️ Languages and Tools:
 
 <p>
