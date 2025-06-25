@@ -23,7 +23,6 @@ I'm Yesaswini Swarna from Andhra Pradesh, currently pursuing B.Tech Fourth Year 
 - **e-Sahayak**: AI-powered multilingual legal chatbot for citizens (SIH Finalist)
 - **Sportopia**: Real-time sports scheduler with live match data and player tracking
 - **Virtual Dressing Room**: Try-on outfits using OpenCV and Python
-- **Food & Clothes Donation App**: Social impact app connecting donors to NGOs
 - **College Food Analytics**: Interactive Tableau dashboards for student food preferences
 
 ---
