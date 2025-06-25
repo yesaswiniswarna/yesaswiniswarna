@@ -4,17 +4,17 @@
 
 <p align="center">
   <a href="https://github.com/yesaswiniswarna"><img src="https://img.shields.io/github/followers/yesaswiniswarna?label=Follow&style=social" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/your-leetcode/"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/your-gfg/"><img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://your-medium-link"><img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yesaswini-swarna-369124270/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Yesaswiniswarna/"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/user/22pa1a05g2/"><img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?logo=geeksforgeeks&logoColor=white" /></a>
+ 
 </p>
 
 ---
 
 ### 🙋‍♀️ Glad to see you here!
 
-I'm Yesaswini Swarna from Andhra Pradesh, currently pursuing B.Tech in Computer Science at Vishnu Institute of Technology. I'm passionate about full-stack development, data analysis, and building tech that improves lives.
+I'm Yesaswini Swarna from Andhra Pradesh, currently pursuing B.Tech Fourth Year in Computer Science and Engineering at Vishnu Institute of Technology. I'm passionate about full-stack development, data analysis, and building tech that improves lives.
 
 ---
 
@@ -38,9 +38,8 @@ I'm Yesaswini Swarna from Andhra Pradesh, currently pursuing B.Tech in Computer 
 
 ### 📫 Connect with Me:
 
-- 📍 **Location**: Andhra Pradesh, India  
-- 🌐 **Portfolio**: [your-portfolio-link](https://your-portfolio.com)  
-- ✉️ **Email**: yourmail@gmail.com  
+- 📍 **Location**: BhimavaramAndhra Pradesh, India  
+- ✉️ **Email**: yesaswiniswarna@gmail.com  
 - 🏆 SIH Finalist | Hackathons | Research | Data Projects
 
 ---
