@@ -38,7 +38,7 @@ I'm Yesaswini Swarna from Andhra Pradesh, currently pursuing B.Tech Fourth Year 
 
 ### 📫 Connect with Me:
 
-- 📍 **Location**: BhimavaramAndhra Pradesh, India  
+- 📍 **Location**: Bhimavaram,Andhra Pradesh, India  
 - ✉️ **Email**: yesaswiniswarna@gmail.com  
 - 🏆 SIH Finalist | Hackathons | Research | Data Projects
 
