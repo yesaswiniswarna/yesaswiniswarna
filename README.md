@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Yesaswini Swarna</h1>
 
@@ -31,7 +31,7 @@ I'm Yesaswini Swarna from Andhra Pradesh, currently pursuing B.Tech Fourth Year 
 ### 🛠️ Languages and Tools:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,react,html,css,js,nodejs,mongodb,postgres,figma,flutter,github,java,cpp,tailwind,vercel,docker" />
+  <img src="https://skillicons.dev/icons?i=python,react,html,css,js,nodejs,mongodb,figma,github,java,docker,git,powerbi,nlp,llms,ai," />
 </p>
 
 ---
